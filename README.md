@@ -3,6 +3,6 @@ This is an image classification machine learning model that can identify the bre
 <br>
 Breed_Data Folder contains Testing data
 <br>
-<br> ```pip install -r requirements.txt ``` <br>to install all frameworks required for function
+<br> ```pip install -r requirements.txt ``` and ```pip install -U google-generativeai``` <br>to install all frameworks required for function
 <br>
 Requires a working API key from <a href=https://aistudio.google.com/app>Google AI Studio </a>
